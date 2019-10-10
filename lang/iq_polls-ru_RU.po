@@ -1,0 +1,196 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: iq_polls\n"
+"POT-Creation-Date: 2019-10-09 14:19+0300\n"
+"PO-Revision-Date: \n"
+"Last-Translator: Igor Chesebiev <tigrbobr@mail.ru>\n"
+"Language-Team: Myself\n"
+"Language: ru\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=3; plural=(n%10==1 && n%100!=11 ? 0 : n%10>=2 && n"
+"%10<=4 && (n%100<10 || n%100>=20) ? 1 : 2);\n"
+"X-Poedit-SourceCharset: UTF-8\n"
+"X-Poedit-KeywordsList: __;_e;_x:1,2c;_ex:1,2c;_n:1,2;_nx:1,2,4c;_n_noop:1,2;"
+"_nx_noop:1,2,3c;esc_attr__;esc_attr_e;esc_html__;esc_html_e\n"
+"X-Poedit-Basepath: ..\n"
+"X-Generator: Poedit 2.2.4\n"
+"X-Poedit-SearchPath-0: .\n"
+
+#: includes/activate.php:4
+msgid "You must update WordPress to use this plugin"
+msgstr "Вы должны обновить WordPress, чтобы испоьзовать этот плагин"
+
+#: includes/admin/init.php:15 includes/admin/iqp-metabox.php:6
+msgid "Add question"
+msgstr "Добавить вопрос"
+
+#: includes/admin/init.php:16
+msgid "Edit question"
+msgstr "Редактировать вопрос"
+
+#: includes/admin/init.php:17
+msgid "Delete question"
+msgstr "Удалить вопрос"
+
+#: includes/admin/init.php:18
+msgid "Add answer choice"
+msgstr "Добавить вариант ответа"
+
+#: includes/admin/init.php:19
+msgid "Edit answer choice"
+msgstr "Редактировать вариант ответа"
+
+#: includes/admin/init.php:20
+msgid "Delete answer choice"
+msgstr "Удалить вариант ответа"
+
+#: includes/admin/init.php:28
+msgid "Questions of the poll"
+msgstr "Вопросы теста"
+
+#: includes/admin/iqp-answers-vars.php:32
+msgid "Add answer choice for question"
+msgstr "Добавить вариант ответа на вопрос"
+
+#: includes/admin/iqp-answers-vars.php:38
+#: includes/admin/iqp-answers-vars.php:79 includes/admin/iqp-questions.php:158
+msgid "Answer text"
+msgstr "Текст ответа"
+
+#: includes/admin/iqp-answers-vars.php:42
+#: includes/admin/iqp-answers-vars.php:83
+msgid "Bonus"
+msgstr "Количество очков"
+
+#: includes/admin/iqp-answers-vars.php:47
+#: includes/admin/iqp-answers-vars.php:88 includes/admin/iqp-questions.php:38
+#: includes/admin/iqp-questions.php:199
+msgid "Save"
+msgstr "Сохранить"
+
+#: includes/admin/iqp-questions.php:20
+msgid "Question text"
+msgstr "Текст вопроса"
+
+#: includes/admin/iqp-questions.php:25 includes/admin/iqp-questions.php:163
+msgid "Picture"
+msgstr "Картинка"
+
+#: includes/admin/iqp-questions.php:32 includes/admin/iqp-questions.php:180
+msgid "Number of the question in the poll"
+msgstr "Номер вопроса в тесте"
+
+#: includes/admin/iqp-questions.php:68 includes/admin/iqp-questions.php:233
+msgid "Опрос"
+msgstr ""
+
+#: includes/admin/iqp-questions.php:80 includes/admin/iqp-questions.php:245
+msgid "Текст вопроса"
+msgstr ""
+
+#: includes/admin/iqp-questions.php:85 includes/admin/iqp-questions.php:250
+msgid "Картинка"
+msgstr ""
+
+#: includes/admin/iqp-questions.php:92 includes/admin/iqp-questions.php:267
+msgid "Предыдущий вопрос"
+msgstr ""
+
+#: includes/admin/iqp-questions.php:111 includes/admin/iqp-questions.php:283
+msgid "Следующий вопрос"
+msgstr ""
+
+#: includes/admin/iqp-questions.php:166
+msgid "Upload files"
+msgstr "Загрузить файл"
+
+#: includes/admin/iqp-questions.php:186
+msgid "Answer choices"
+msgstr "Варианты ответов"
+
+#: includes/admin/iqp-questions.php:188
+msgid "Add new answer choice"
+msgstr "Добавить новый вариант ответа"
+
+#: includes/admin/iqp-questions.php:192 includes/admin/iqp-settings-page.php:9
+#: includes/init.php:17
+msgid "Edit"
+msgstr "Редактировать"
+
+#: includes/admin/iqp-settings-page.php:6
+msgid "Options page"
+msgstr "Страница настроек"
+
+#: includes/admin/iqp-settings-page.php:7
+msgid "Add poll"
+msgstr "Добавить тест"
+
+#: includes/admin/iqp-settings-page.php:9
+msgid "Delete"
+msgstr "Удалить"
+
+#: includes/init.php:13
+msgid "Tests and polls"
+msgstr "Тесты и опросы"
+
+#: includes/init.php:14
+msgid "Test"
+msgstr "Тест (опрос)"
+
+#: includes/init.php:15 includes/init.php:16
+msgid "Add test"
+msgstr "Добавить тест (опрос)"
+
+#: includes/init.php:18
+msgid "Edit test"
+msgstr "Редактировать тест (опрос)"
+
+#: includes/init.php:19
+msgid "New test"
+msgstr "Новый тест (опрос)"
+
+#: includes/init.php:20
+msgid "View"
+msgstr "Просмотр"
+
+#: includes/init.php:21
+msgid "View test"
+msgstr "Просмотреть тест"
+
+#: includes/init.php:22
+msgid "Search test"
+msgstr "Поиск теста"
+
+#: includes/init.php:23
+msgid "No test"
+msgstr "Нет теста (опроса)"
+
+#: includes/init.php:24
+msgid "No test in trash"
+msgstr "В корзине нет теста (опроса)"
+
+#: includes/init.php:36
+msgid "Polls topics"
+msgstr "Темы тестов (опросов)"
+
+#: includes/widgets.php:8 includes/widgets.php:16
+msgid "Top of tests users"
+msgstr "Рейтинг пользователей тестов"
+
+#: includes/widgets.php:9
+msgid "View top of tests users"
+msgstr "Показать рейтинг пользователей тестов"
+
+#: includes/widgets.php:23
+msgid "points"
+msgstr "очков"
+
+#: includes/widgets.php:35
+msgid "Tests of current user"
+msgstr "Тесты текущего пользователя"
+
+#: includes/widgets.php:36
+msgid "View tests of current user"
+msgstr "Показать тесты текущего пользователя"
